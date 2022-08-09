@@ -14,3 +14,7 @@
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSilveira93&show_icons=true&theme=tokyonight" alt="GuilhermeSilveira93" stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSilveira93&layout=compact&theme=tokyonight" alt="GuilhermeSilveira93"
+</p>
