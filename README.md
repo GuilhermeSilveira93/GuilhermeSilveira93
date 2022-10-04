@@ -4,7 +4,6 @@
 
 ✍️Trabalhando em Softrack - Fleet Management - Analista de Sistemas Jr. (https://secure.softrack.com.br/)
 
-🧑‍Todos os meu projetos estão disponiveis em (🚨Portfolio em construção).
 
 <h2 align="center">Tecnologias que tenho utilizado e aprendendo.🛠️</h2>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
