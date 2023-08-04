@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Meu nome é Guilherme Padovani Silveira !<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-🔥Estudando Desenvolvimento Full Stack Jr.
+🔥Estudando Desenvolvimento Full Stack
 
-✍️Trabalhando em Softrack - Fleet Management - Analista de Sistemas Jr. (https://secure.softrack.com.br/)
+✍️Trabalhando em Softrack - Fleet Management - Analista de Sistemas. (https://secure.softrack.com.br/)
 
 
 <h2 align="center">Tecnologias que tenho utilizado e aprendendo.🛠️</h2>
