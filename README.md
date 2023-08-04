@@ -15,6 +15,7 @@
 <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img align="center" alt="React Native JS" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img align="center" alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSilveira93&show_icons=true&theme=tokyonight" alt="GuilhermeSilveira93" stats"/>
